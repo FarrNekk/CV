@@ -629,4 +629,32 @@ a {
     color: #fff !important;
   }
 
-  
+  .test{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .card-title3{
+    font-size: 22px;
+    font-weight: bold;
+
+  }
+
+  .email{
+    width: auto;
+    height: 20px;
+    margin-right: 15px;
+  }
+
+  .phone{
+    width: auto;
+    height: 20px;
+    margin-right: 15px;
+  }
+
+  .house{
+    width: auto;
+    height: 20px;
+    margin-right: 15px;
+  }  
