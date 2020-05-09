@@ -624,3 +624,9 @@ a {
   .card-text{
     color: black;
   }
+
+  .btn-secondary{
+    color: #fff !important;
+  }
+
+  
